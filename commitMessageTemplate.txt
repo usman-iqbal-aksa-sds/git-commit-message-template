@@ -3,11 +3,6 @@
 
 # Blank line
 
-# Branch Name 
-# No more than 50 chars. #### 50 chars is here: #
-
-# Blank line
-
 # Body: Explain *what* and *why* (not *how*). Include task ID (Jira issue).
 # Wrap at 72 chars. ################################## which is here: #
 # 1. Separate subject from body with a blank line
